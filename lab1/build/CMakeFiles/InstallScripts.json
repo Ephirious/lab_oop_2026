@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ephirious/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MAI/oop/lab1/build/cmake_install.cmake",
+		"/home/ephirious/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MAI/oop/lab1/build/_deps/googletest-build/cmake_install.cmake",
+		"/home/ephirious/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MAI/oop/lab1/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/home/ephirious/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/MAI/oop/lab1/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

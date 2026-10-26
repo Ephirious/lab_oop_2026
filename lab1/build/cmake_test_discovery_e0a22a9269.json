@@ -1,0 +1,123 @@
+{
+  "tests": 21,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ArrayCreationTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "CreateArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 5
+        }
+      ]
+    },
+    {
+      "name": "ArrayTestFixture",
+      "tests": 20,
+      "testsuite": [
+        {
+          "name": "ArrayClear",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 45
+        },
+        {
+          "name": "ResizeArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 50
+        },
+        {
+          "name": "ProvideNullptrWhenInsertIntoNullptrArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 58
+        },
+        {
+          "name": "InsertAtBegining",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 63
+        },
+        {
+          "name": "InsertInMiddle",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 69
+        },
+        {
+          "name": "InsertInEnd",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 75
+        },
+        {
+          "name": "InsertOutOfBound",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 81
+        },
+        {
+          "name": "ProvideNullptrWhenRemoveFromNullptrArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 87
+        },
+        {
+          "name": "RemoveFirstElement",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 92
+        },
+        {
+          "name": "RemoveElementInMiddle",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 98
+        },
+        {
+          "name": "RemoveLastElement",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 104
+        },
+        {
+          "name": "ExpectContainsElement",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 110
+        },
+        {
+          "name": "ExpectNotContainsElement",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 119
+        },
+        {
+          "name": "SortNullprtArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 128
+        },
+        {
+          "name": "SortOneElementArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 133
+        },
+        {
+          "name": "SortInverseArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 139
+        },
+        {
+          "name": "SortRandomArray",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 145
+        },
+        {
+          "name": "RemoveDuplicatesWithoutDuplicates",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 161
+        },
+        {
+          "name": "RemoveDuplicateWithOneElement",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 167
+        },
+        {
+          "name": "RemoveSomeDuplicates",
+          "file": "\/home\/ephirious\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/MAI\/oop\/lab1\/tests\/test_array.cpp",
+          "line": 173
+        }
+      ]
+    }
+  ]
+}

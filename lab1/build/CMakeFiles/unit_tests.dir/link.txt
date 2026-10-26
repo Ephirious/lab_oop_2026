@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -Wl,--dependency-file=CMakeFiles/unit_tests.dir/link.d CMakeFiles/unit_tests.dir/tests/test_array.cpp.o CMakeFiles/unit_tests.dir/src/array.cpp.o -o unit_tests  lib/libgtest_main.a lib/libgtest.a
